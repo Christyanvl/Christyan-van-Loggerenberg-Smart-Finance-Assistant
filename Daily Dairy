@@ -1,0 +1,289 @@
+# ============================================================
+# DAILY DEVELOPMENT DIARY
+# Savings Growth Planner Project
+# ============================================================
+
+# Student Name:
+# Christyan van Loggerenberg
+
+# ------------------------------------------------------------
+# DAY 1
+# ------------------------------------------------------------
+
+# Started planning the project idea.
+
+# Decided to create a Smart Finance Assistant
+# using Python and Google Colab.
+
+# Brainstormed possible finance features.
+
+# ------------------------------------------------------------
+# DAY 2
+# ------------------------------------------------------------
+
+# Researched savings planning applications.
+
+# Identified important features:
+# - savings goals
+# - expense tracking
+# - savings calculations
+
+# ------------------------------------------------------------
+# DAY 3
+# ------------------------------------------------------------
+
+# Created the notebook structure.
+
+# Added project overview and project sections.
+
+# ------------------------------------------------------------
+# DAY 4
+# ------------------------------------------------------------
+
+# Installed required libraries:
+# - pandas
+# - gradio
+
+# Tested library imports.
+
+# ------------------------------------------------------------
+# DAY 5
+# ------------------------------------------------------------
+
+# Worked on understanding the problem.
+
+# Identified how users struggle
+# with savings planning.
+
+# ------------------------------------------------------------
+# DAY 6
+# ------------------------------------------------------------
+
+# Planned project inputs and outputs.
+
+# Decided users would enter:
+# - income
+# - expenses
+# - savings goals
+# - interest rate
+
+# ------------------------------------------------------------
+# DAY 7
+# ------------------------------------------------------------
+
+# Worked the problem by hand.
+
+# Created example finance calculations.
+
+# ------------------------------------------------------------
+# DAY 8
+# ------------------------------------------------------------
+
+# Wrote pseudocode for the project.
+
+# Planned the overall program flow.
+
+# ------------------------------------------------------------
+# DAY 9
+# ------------------------------------------------------------
+
+# Started coding validation functions.
+
+# Created text validation function.
+
+# ------------------------------------------------------------
+# DAY 10
+# ------------------------------------------------------------
+
+# Added money formatting function.
+
+# Added Rs currency formatting.
+
+# ------------------------------------------------------------
+# DAY 11
+# ------------------------------------------------------------
+
+# Started coding the main savings planner function.
+
+# Added savings goal calculations.
+
+# ------------------------------------------------------------
+# DAY 12
+# ------------------------------------------------------------
+
+# Added expense calculations.
+
+# Calculated total monthly expenses.
+
+# ------------------------------------------------------------
+# DAY 13
+# ------------------------------------------------------------
+
+# Added available monthly savings calculations.
+
+# Tested finance calculations.
+
+# ------------------------------------------------------------
+# DAY 14
+# ------------------------------------------------------------
+
+# Added bank interest calculations.
+
+# Improved savings growth calculations.
+
+# ------------------------------------------------------------
+# DAY 15
+# ------------------------------------------------------------
+
+# Added savings growth table.
+
+# Added:
+# - amount saved
+# - interest income
+# - total savings
+# - goal progress
+
+# ------------------------------------------------------------
+# DAY 16
+# ------------------------------------------------------------
+
+# Added progress tracking calculations.
+
+# Added percentage calculations.
+
+# ------------------------------------------------------------
+# DAY 17
+# ------------------------------------------------------------
+
+# Added months needed to reach goal feature.
+
+# Improved long-term savings calculations.
+
+# ------------------------------------------------------------
+# DAY 18
+# ------------------------------------------------------------
+
+# Added monthly and yearly result views.
+
+# Improved table display.
+
+# ------------------------------------------------------------
+# DAY 19
+# ------------------------------------------------------------
+
+# Simplified the expense section.
+
+# Removed unnecessary expense categories.
+
+# ------------------------------------------------------------
+# DAY 20
+# ------------------------------------------------------------
+
+# Removed Coffee Expense section.
+
+# Simplified financial calculations.
+
+# ------------------------------------------------------------
+# DAY 21
+# ------------------------------------------------------------
+
+# Improved validation system.
+
+# Prevented incorrect user inputs.
+
+# ------------------------------------------------------------
+# DAY 22
+# ------------------------------------------------------------
+
+# Improved number input areas.
+
+# Added Gradio Number boxes.
+
+# ------------------------------------------------------------
+# DAY 23
+# ------------------------------------------------------------
+
+# Started building the Gradio interface.
+
+# Created:
+# - Saving Goal section
+# - Income and Expenses section
+# - Interest section
+
+# ------------------------------------------------------------
+# DAY 24
+# ------------------------------------------------------------
+
+# Improved app layout.
+
+# Added separate sections and results boxes.
+
+# ------------------------------------------------------------
+# DAY 25
+# ------------------------------------------------------------
+
+# Improved financial advice section.
+
+# Added:
+# "According to my calculations..."
+
+# ------------------------------------------------------------
+# DAY 26
+# ------------------------------------------------------------
+
+# Improved currency formatting.
+
+# Added commas and decimal places.
+
+# Example:
+# Rs 1,000,000.00
+
+# ------------------------------------------------------------
+# DAY 27
+# ------------------------------------------------------------
+
+# Added testing section.
+
+# Tested:
+# - validation
+# - calculations
+# - table outputs
+
+# ------------------------------------------------------------
+# DAY 28
+# ------------------------------------------------------------
+
+# Added finance knowledge section.
+
+# Added savings and financial advice information.
+
+# ------------------------------------------------------------
+# DAY 29
+# ------------------------------------------------------------
+
+# Final testing completed.
+
+# Fixed remaining errors in calculations
+# and Gradio interface.
+
+# ------------------------------------------------------------
+# DAY 30
+# ------------------------------------------------------------
+
+# Completed final project documentation.
+
+# Completed:
+# - README
+# - AI conversation notes
+# - daily diary
+# - final reflection
+
+# Final project successfully created:
+# "Savings Growth Planner"
+
+# The final project helps users:
+# - calculate savings growth
+# - calculate interest income
+# - estimate months needed
+#   to reach savings goals
+# - improve financial planning
