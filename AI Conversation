@@ -1,0 +1,320 @@
+# ============================================================
+# AI CONVERSATION NOTES
+# Savings Growth Planner Project
+# ============================================================
+
+# Student Name:
+# Christyan van Loggerenberg
+
+# ------------------------------------------------------------
+# ORIGINAL PROJECT IDEA
+# ------------------------------------------------------------
+
+# The original project idea was to create
+# a Smart Finance Assistant using Python
+# and Google Colab.
+
+# The first version of the project included:
+# - spending analysis
+# - savings advice
+# - savings goal calculator
+# - finance chatbot
+# - RAG finance knowledge
+# - testing section
+# - Gradio user interface
+
+# ------------------------------------------------------------
+# EARLY PROJECT CHANGES
+# ------------------------------------------------------------
+
+# During development,
+# the project idea changed multiple times.
+
+# A request was made to improve the project
+# so that it would focus more on:
+
+# - savings growth
+# - interest income
+# - long-term financial planning
+# - realistic savings goals
+
+# The project later became:
+# "Savings Growth Planner"
+
+# ------------------------------------------------------------
+# NEW PROJECT GOALS
+# ------------------------------------------------------------
+
+# A request was made to improve the app
+# so users could:
+
+# - enter their own savings goals
+# - calculate savings growth over years
+# - calculate interest income
+# - estimate how long it takes
+#   to reach a savings goal
+
+# Example goals requested:
+# - buying a house
+# - buying a car
+# - saving for holidays
+
+# ------------------------------------------------------------
+# SAVINGS TABLE IMPROVEMENTS
+# ------------------------------------------------------------
+
+# A request was made to improve the savings table.
+
+# The table was redesigned to show:
+
+# - amount saved
+# - interest income
+# - total savings
+# - progress toward goal
+
+# Another request was made
+# to improve calculation accuracy.
+
+# The final table calculations became:
+
+# - first column:
+#   monthly savings x 12 months
+
+# - second column:
+#   interest income earned
+
+# - third column:
+#   total savings amount
+
+# - fourth column:
+#   progress toward savings goal
+
+# ------------------------------------------------------------
+# MONTHLY OR YEARLY VIEW REQUEST
+# ------------------------------------------------------------
+
+# A request was made
+# to allow users to choose:
+
+# - monthly results
+# - or yearly results
+
+# This feature was later added
+# to the final Gradio app.
+
+# ------------------------------------------------------------
+# MONTHS NEEDED TO REACH GOAL
+# ------------------------------------------------------------
+
+# A request was made to calculate:
+
+# "How many months will it take
+# to reach the savings goal?"
+
+# The project was updated to:
+# - calculate estimated months
+# - estimate years needed
+# - display the results clearly
+
+# ------------------------------------------------------------
+# SAVINGS GOAL CUSTOMIZATION
+# ------------------------------------------------------------
+
+# A request was made to allow users
+# to customize savings goals.
+
+# The final project allows users to enter:
+# - goal name
+# - goal amount
+# - years to reach goal
+# - monthly saving amount
+
+# ------------------------------------------------------------
+# VALIDATION IMPROVEMENTS
+# ------------------------------------------------------------
+
+# A request was made to prevent users
+# from entering incorrect information.
+
+# Validation improvements included:
+
+# - only letters allowed in text areas
+# - only numbers allowed in number areas
+# - prevention of invalid calculations
+# - prevention of incorrect inputs
+
+# Later,
+# Gradio Number boxes were added
+# to improve validation.
+
+# ------------------------------------------------------------
+# USER INTERFACE IMPROVEMENTS
+# ------------------------------------------------------------
+
+# A request was made
+# to make the app look more professional.
+
+# The interface was redesigned into sections:
+
+# - Saving Goal
+# - Income and Expenses
+# - Interest and Results
+# - Results Section
+
+# Another request was made
+# to leave all number boxes empty
+# so users could enter their own values.
+
+# ------------------------------------------------------------
+# EXPENSE SECTION CHANGES
+# ------------------------------------------------------------
+
+# A request was made
+# to simplify the expense section.
+
+# The "Coffee Expense" category
+# was removed.
+
+# Final expense categories:
+# - groceries
+# - transport
+# - entertainment
+# - rent or bills
+# - other expenses
+
+# ------------------------------------------------------------
+# CURRENCY FORMAT REQUEST
+# ------------------------------------------------------------
+
+# A request was made
+# to display money correctly.
+
+# Improvements included:
+# - displaying money as Rs
+# - adding commas to large numbers
+# - adding decimal places
+
+# Example:
+# Rs 1,000,000.00
+
+# ------------------------------------------------------------
+# SAVINGS ADVICE REQUEST
+# ------------------------------------------------------------
+
+# A request was made
+# to include advice in the app.
+
+# The app was updated to display:
+
+# "According to my calculations..."
+
+# before financial recommendations.
+
+# ------------------------------------------------------------
+# FINAL PROJECT FEATURES
+# ------------------------------------------------------------
+
+# Final project features included:
+
+# - savings goal planning
+# - savings growth calculations
+# - interest income calculations
+# - goal progress tracking
+# - months needed to reach goal
+# - monthly and yearly result views
+# - financial advice
+# - validation functions
+# - testing section
+# - finance knowledge section
+# - Gradio web application
+
+# ------------------------------------------------------------
+# FINAL EXAMPLE USED
+# ------------------------------------------------------------
+
+# Final example values used:
+
+# Saving Goal:
+# House
+
+# Goal Amount:
+# Rs 1,000,000
+
+# Years To Goal:
+# 5
+
+# Monthly Saving:
+# Rs 20,000
+
+# Monthly Income:
+# Rs 70,000
+
+# Groceries:
+# Rs 8,000
+
+# Transport:
+# Rs 4,000
+
+# Entertainment:
+# Rs 5,000
+
+# Rent or Bills:
+# Rs 15,000
+
+# Other Expenses:
+# Rs 7,000
+
+# Interest Rate:
+# 5%
+
+# ------------------------------------------------------------
+# FINAL RESULTS OF PROJECT
+# ------------------------------------------------------------
+
+# The final application allows users to:
+
+# - enter savings information
+# - calculate expenses
+# - calculate available savings
+# - calculate interest income
+# - track savings growth
+# - estimate months needed
+#   to reach goals
+# - view monthly or yearly results
+
+# The final project successfully created
+# a Smart Finance Assistant
+# using Python and Google Colab.
+
+# ------------------------------------------------------------
+# AI TOOLS USED
+# ------------------------------------------------------------
+
+# AI tools used during development:
+
+# - ChatGPT
+# - Google Colab AI assistance
+
+# AI was used to:
+# - fix coding errors
+# - improve calculations
+# - improve validation
+# - improve table formatting
+# - improve Gradio interface design
+# - improve project documentation
+
+# ------------------------------------------------------------
+# FINAL REFLECTION
+# ------------------------------------------------------------
+
+# This project improved understanding of:
+
+# - Python programming
+# - finance calculations
+# - validation
+# - Gradio applications
+# - financial planning systems
+# - problem solving
+
+# The final project successfully achieved
+# the required project goals.
